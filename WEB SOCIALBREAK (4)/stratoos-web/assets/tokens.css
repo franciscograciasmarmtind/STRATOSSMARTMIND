@@ -1,0 +1,45 @@
+/* ============================================================
+   SMARTMIND × STRATOOS — Tokens de marca REAL
+   Paleta de marca confirmada (ya no provisional)
+   ============================================================ */
+:root{
+  /* Marca Stratoos — primario (Bermellón, "the brand signal color") */
+  --green:#DC4634;        /* Bermellón — acento primario Stratoos */
+  --green-2:#BE3424;       /* hover / oscuro */
+  --green-soft:#FEF1EE;    /* wash bermellón */
+  --green-bright:#F48A6F;  /* acento claro sobre fondos oscuros */
+  --ink:#415176;           /* Azul oscuro — texto fuerte / fondos oscuros */
+  --ink-2:#3a4358;         /* texto medio */
+  --muted:#6b7488;         /* texto suave */
+  --line:#e8ebf1;          /* bordes */
+  --paper:#ffffff;
+  --wash:#f6f8fb;          /* fondo secciones claras */
+
+  /* Paleta de marca completa (referencia) */
+  --brand-verde-mint:#c2efb2;
+  --brand-azul:#85a2bb;
+  --brand-azul-oscuro:#415176;
+  --brand-azul-claro:#009bad;
+  --brand-morado:#c0a1ff;
+  --brand-rosa:#eb276d;
+  --brand-naranja:#ff6a46;
+  --brand-amarillo:#f8dd6f;
+  --brand-rosa-talento:#d81259;
+  --brand-verde-edtech:#04724d;
+
+  /* Acento por Studio (Stratoos) — de la paleta de marca */
+  --s-core:#85a2bb;        /* Azul — estructural */
+  --s-content:#009bad;     /* Azul claro — generativo */
+  --s-design:#c0a1ff;      /* Morado — creativo */
+  --s-play:#eb276d;        /* Rosa — energía */
+  --s-live:#ff6a46;        /* Naranja — urgencia/activación */
+  --s-mind:#d81259;        /* Rosa talento — medición */
+  --s-learn:#f8dd6f;       /* Amarillo — aprendizaje continuo */
+
+  /* Tipografía */
+  --font-display:'Space Grotesk',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  --font-body:'Plus Jakarta Sans',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+
+  --maxw:1200px;
+  --radius:16px;
+}
